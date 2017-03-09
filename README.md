@@ -1,1 +1,1 @@
-chingu-jetpack.github.io
+https://chingu-cohorts.github.io/march-cohort-guide/
